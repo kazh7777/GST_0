@@ -22,6 +22,8 @@
 
 #### PPT : https://url.kr/qjo4vw
 
+<hr>
+
 #### 프로젝트 내용 : REACT, EXPRESS.JS 를 활용한 게임 시청자를 위한 일정관리 서비스
 
 #### 프로젝트 주제 및 기능
